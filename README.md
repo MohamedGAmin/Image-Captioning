@@ -19,6 +19,7 @@ The Encoder-Decoder network could be coupled and trained end-to-end, without sav
 ## Output
 
 
+<img width="715" alt="Screenshot 2021-12-11 at 11 25 04 PM" src="https://user-images.githubusercontent.com/54632431/145693724-1737d675-f59e-44c7-86df-450cadf87ba7.png">
 
 
 
